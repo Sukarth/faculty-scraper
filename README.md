@@ -2,7 +2,7 @@
 
 <center>
 
-An automated tool for extracting professor information from university faculty websites using AI-powered analysis via Google Gemini.
+An automated tool for extracting professor information from university faculty websites using AI-powered analysis via Google Gemini. Developed for the Aalto University Economics Department.
 
 </center>
 
