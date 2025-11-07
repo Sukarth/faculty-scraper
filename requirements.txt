@@ -1,0 +1,16 @@
+# Faculty Scraper Dependencies
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Google Gemini AI SDK
+google-genai>=0.1.0
+
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.0.0
+
+# Additional utilities
+python-dateutil>=2.8.0
